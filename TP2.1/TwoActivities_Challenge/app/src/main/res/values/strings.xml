@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TwoActivities_Challenge</string>
+    <string name="text_three">Text Three</string>
+    <string name="text_two">Text Two</string>
+    <string name="text_one">Text One</string>
+    <string name="textview">TextView</string>
+    <string name="textview3">TextView3</string>
+    <string name="textview4">TextView4</string>
+    <string name="textview5">TextView5</string>
+</resources>
